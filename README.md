@@ -3,7 +3,7 @@
 A modern, graphical Hangman game built with Python and Tkinter.  
 This project includes a clean GUI, real-time word fetching from an API, a fallback system, multiple difficulty levels, and a hint mechanism — all in a single Python file.
 
-![Hangman Game UI](assets/gameplay.png)  
+![Hangman Game UI](assets/gameplay.jpeg)  
 *(Make sure this image is stored at `assets/gameplay.png` in your repository.)*
 
 ---
