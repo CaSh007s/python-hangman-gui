@@ -65,4 +65,5 @@ A modern, graphical Hangman game built with Python and Tkinter. This is not your
 ---
 
 ## File Structure
-python_hangman_gui/ │ ├── .gitignore # Tells Git to ignore the virtual environment ├── hangman_game.py # The complete, single-file Python application ├── requirements.txt # Lists the single 'requests' dependency └── README.md
+```bash
+python_hangman_gui/ │ ├── .gitignore # Tells Git to ignore the virtual environment ├── hangman_game.py # The complete, single-file Python application ├── requirements.txt # Lists the single 'requests' dependency └── README.md```
